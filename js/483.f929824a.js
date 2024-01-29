@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpp"]=self["webpackChunkpp"]||[]).push([[483],{1483:function(n,e,r){r.r(e),r.d(e,{default:function(){return s}});var t=r(3396);function u(n,e){return(0,t.wg)(),(0,t.iD)("h2",null,"testPage")}var a=r(89);const c={},p=(0,a.Z)(c,[["render",u]]);var s=p}}]);
+//# sourceMappingURL=483.f929824a.js.map
