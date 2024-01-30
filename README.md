@@ -10,4 +10,5 @@ dist source file
 "sass-loader": "^14.0.0",<br>
 "vue": "^3.4.15",<br>
 "vue-router": "^4.2.5",<br>
-"vuetify": "^3.0.0-beta.0",
+"vuetify": "^3.0.0-beta.0",<br>
+http://localhost:3000/users
